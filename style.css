@@ -3,6 +3,10 @@ body {
   background: radial-gradient(circle, #011f4b, #03396c, #005b96);
 }
 
+h1{
+  color: yellow;
+  font-family: "Times New Roman", Times, serif;
+}
 
 .canvas {
   width: 100vmin; /* Responsive size */
