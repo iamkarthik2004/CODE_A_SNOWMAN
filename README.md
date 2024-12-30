@@ -13,4 +13,4 @@ Run in Laptop (Beacuse of some resizable problem)
 
 i will not know to solving the resizable problems in css
 
-use desktop mode in mobile 🥲
+Pls use desktop mode in mobile 
